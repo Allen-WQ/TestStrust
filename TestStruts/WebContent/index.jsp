@@ -17,5 +17,7 @@
 	<label>详细描述<input type="text" name="user.address.desc"/></label><br>
 	<input type="submit" value="提交"/>
 </form>
+	
+	<a href="www.baidu.com">百度一下</a>	
 </body>
 </html>
